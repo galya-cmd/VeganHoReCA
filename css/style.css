@@ -173,6 +173,7 @@ img {
 
 
 .intro__photo{
+    display: flex;
     margin-right: 20px;
 }
 .wrapper__card {
