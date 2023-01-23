@@ -142,6 +142,7 @@ img {
 
 .intro__container {
     display: flex;
+    align-items: flex-start;
 }
 
 .intro__info {
