@@ -160,11 +160,6 @@ img {
     margin-bottom: 91px;
 }
 
-.intro__photo-img {
-    width: 337px;
-    height: 556px;
-}
-
 .intro__subtitle {
     max-width: 595px;
     font-size: 26px;
@@ -175,16 +170,10 @@ img {
     margin-bottom: 42px;
 }
 
-.ntro__photo-img {
+
+.intro__photo{
     margin-right: 20px;
 }
-
-.ntro__photo-img:last-child {
-    margin-right: 0;
-}
-
-
-
 .wrapper__card {
     margin-top: 170px;
     display: flex;
